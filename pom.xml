@@ -30,5 +30,10 @@
             <artifactId>runner</artifactId>
             <version>${gamengine.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.codingame.gameengine</groupId>
+            <artifactId>module-toggle</artifactId>
+            <version>3.6.1</version>
+        </dependency>
     </dependencies>
 </project>

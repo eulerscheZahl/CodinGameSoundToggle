@@ -2,8 +2,7 @@
 import * as utils from '../core/utils.js';
 import {assets} from '../assets.js';
 import { WIDTH, HEIGHT } from '../core/constants.js';
-import { ToggleModule } from './ToggleModule.js';
-//import { ToggleModule } from './'
+import { ToggleModule } from '../toggle-module/ToggleModule.js'
 
 export class AnimatedEventModule {
   constructor(assets) {

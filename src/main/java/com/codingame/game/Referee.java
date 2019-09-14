@@ -5,8 +5,8 @@ import com.codingame.gameengine.core.AbstractPlayer.TimeoutException;
 import com.codingame.gameengine.core.AbstractReferee;
 import com.codingame.gameengine.core.MultiplayerGameManager;
 import com.codingame.gameengine.module.entities.GraphicEntityModule;
+import com.codingame.gameengine.module.toggle.ToggleModule;
 import com.codingame.view.AnimatedEventModule;
-import com.codingame.view.ToggleModule;
 import com.codingame.view.ViewerEvent;
 import com.google.inject.Inject;
 

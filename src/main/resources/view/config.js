@@ -1,6 +1,6 @@
 import { GraphicEntityModule } from './entity-module/GraphicEntityModule.js';
 import { AnimatedEventModule } from './animations/AnimatedEventModule.js';
-import { ToggleModule } from './animations/ToggleModule.js';
+import { ToggleModule } from './toggle-module/ToggleModule.js'
 
 // List of viewer modules that you want to use in your game
 export const modules = [
