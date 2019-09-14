@@ -4,9 +4,9 @@ After importing the modules, the only changes worth mentioning are:
 
 Register the sound toggle in the [Referee](https://github.com/eulerscheZahl/CodinGameSoundToggle/blob/master/src/main/java/com/codingame/game/Referee.java#L31).
 
-Load the toggle in the [AnimatedEventModule](https://github.com/eulerscheZahl/CodinGameSoundToggle/blob/master/src/main/resources/view/animations/AnimatedEventModule.js#L87)
+Load the toggle in the [AnimatedEventModule](https://github.com/eulerscheZahl/CodinGameSoundToggle/blob/master/src/main/resources/view/animations/AnimatedEventModule.js#L86)
 
-Query the toggle state in the [AnimatedEventModule](https://github.com/eulerscheZahl/CodinGameSoundToggle/blob/master/src/main/resources/view/animations/AnimatedEventModule.js#L95)
+Query the toggle state in the [AnimatedEventModule](https://github.com/eulerscheZahl/CodinGameSoundToggle/blob/master/src/main/resources/view/animations/AnimatedEventModule.js#L94)
 
 
 
